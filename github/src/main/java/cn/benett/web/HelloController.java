@@ -11,6 +11,10 @@ public class HelloController {
     }
 
     private static String getName(){
-        return "cp13";
+        return "cp09";
+    }
+    
+    public void fun(){
+        System.out.println("haha");
     }
 }
