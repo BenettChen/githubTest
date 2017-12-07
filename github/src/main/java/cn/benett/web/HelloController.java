@@ -9,4 +9,8 @@ public class HelloController {
     public static void main(String[] args) {
         System.out.println("hahhhah");
     }
+
+    private static String getName(){
+        return "cp";
+    }
 }
