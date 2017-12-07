@@ -18,7 +18,7 @@ public class HelloController {
         System.out.println("haha");
     }
 
-    public viod fun3(){
+    public void fun3(){
 
     }
 
