@@ -11,6 +11,6 @@ public class HelloController {
     }
 
     private static String getName(){
-        return "cp";
+        return "cp12";
     }
 }
