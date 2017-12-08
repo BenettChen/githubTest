@@ -25,6 +25,6 @@ public class HelloController {
     }
 
     public void fun2(){
-
+        System.out.println("本地提交");
     }
 }
