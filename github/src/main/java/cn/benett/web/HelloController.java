@@ -7,6 +7,8 @@ package cn.benett.web;
  **/
 public class HelloController {
     public static void main(String[] args) {
+        HelloController hc = new HelloController();
+        hc.fun3();
         System.out.println("hahhhah");
     }
 
