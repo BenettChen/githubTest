@@ -17,11 +17,11 @@ public class HelloController {
     }
 
     public void fun(){
-        System.out.println("haha");
+        
     }
 
     public void fun3(){
-        System.out.println("😝");
+        
     }
 
     public void fun2(){
